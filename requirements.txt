@@ -7,5 +7,5 @@ seaborn
 scikit-learn
 xgboost
 catboost
-# sklearn
-# -e .
+sklearn
+-e .
