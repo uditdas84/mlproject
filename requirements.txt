@@ -3,10 +3,11 @@ numpy
 seaborn
 matplotlib
 seaborn
-# warnings
 scikit-learn
 xgboost
 catboost
 sklearn
 dill
-# -e .
+searchgrid
+dataclasses
+-e .
