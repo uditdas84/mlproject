@@ -10,4 +10,7 @@ sklearn
 dill
 searchgrid
 dataclasses
--e .
+Flask
+pickles
+
+# -e .
